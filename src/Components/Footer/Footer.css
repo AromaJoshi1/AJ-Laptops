@@ -1,0 +1,19 @@
+.footer {
+    width: 100%;
+    margin-top: auto;
+    position:relative;
+    bottom:0;
+   
+}
+
+#p {
+    display: inline;
+    background-color: black;
+    font-size: 1.2rem;
+    font-style: italic;
+    color:white;
+    margin:auto;
+    text-align: center;
+    padding: 0.5rem;
+
+}

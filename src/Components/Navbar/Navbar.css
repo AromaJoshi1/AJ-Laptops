@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+*{  margin: 0;
+    padding: 0;
+    font-family: 'Mulish', sans-serif;
+}
+
+
+.brand-logo{
+  width: 300px;
+   height:100px;
+    /* height: vh; */
+  }
+
+ 
+  .nav-link{
+    
+    font-size: 2rem;
+    font-weight: 600;
+    color :rgb(173, 32, 32);
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+  }
+ 
+
+.navbar-nav{
+    --bs-navbar-active-color: blue; 
+    /* --bs-nav-link-color: white;
+    --bs-nav-link-disabled-color:white; */
+    --bs-nav-link-hover-color: red;
+   
+  }
+
+
+  
